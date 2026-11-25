@@ -5,7 +5,7 @@
 
 I am an undergraduate student pursuing a B.S. in Statistics and Data Science at the University of Michigan. My interests lie at the intersection of machine learning, statistical modeling, and scientific computing, with a particular focus on developing reliable and interpretable AI methods for scientific and healthcare applications.
 
-- 🔬 Undergraduate Researcher at the Ye Lab, Life Sciences Institute
+- 🔬 Undergraduate Researcher at the Li Lab, Life Sciences Institute
 - 🎓 Expected Graduation: May 2027
 - 📍 Ann Arbor, Michigan
 - 📫 Contact: myralyu@umich.edu
