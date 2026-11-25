@@ -83,7 +83,7 @@ My contributions include:
 | [Smartphone Battery Modeling](https://github.com/MyraLyu/MCM---Continuous-Time-Models-of-Smartphone-Battery-Consumption) | Continuous-time mathematical modeling of smartphone battery consumption | Python, Mathematical Modeling |
 | Fairness-Aware Regression | Benchmarking fairness-aware machine learning methods | Python, PyTorch |
 | Histology-to-Spatial Transcriptomics | Predicting spatial gene expression from histology images | Python, Deep Learning |
-| C++ Algorithms & Data Structures | Algorithm design, data structure implementation, and computational problem-solving | C++ |
+| [C++ Algorithms & Data Structures](https://github.com/MyraLyu/cpp-project-portfolio) | Selected C++ projects demonstrating algorithm design, data structure implementation, and software engineering | C++, STL |
 
 ## Algorithms & Software Development
 
